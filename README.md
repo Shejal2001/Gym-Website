@@ -1,5 +1,4 @@
 # Gym-Website
-# Gym Website Design
 ## [Watch it on youtube](https://youtu.be/ddaY0rHqMxM)
 ### Gym Website Design
 
